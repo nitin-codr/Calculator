@@ -1,0 +1,35 @@
+.app {
+  display: flex;
+  align-items: center;
+}
+
+.darkApp {
+  background-color: #000;
+}
+
+.lightApp {
+  background-color: white;
+}
+
+.calc-wrapper {
+  width: 400px;
+  height: 550px;
+  margin: auto;
+}
+
+.pos {
+  margin: 56px 0 40px 40%;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+}
+
+h1 {
+  justify-content: center;
+}
+
+button {
+  width: 10%;
+}
